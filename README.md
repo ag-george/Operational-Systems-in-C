@@ -3,8 +3,8 @@
  
 This repository includes all Projects assigned to us during the Operational Systems Class at ECE, NTUA in 2021. 
 
-Contributors:
- Angelis Giorgos,
+Contributors:/
+ Angelis Giorgos,/
  Pigadas Nicolas
 
 Projects are in Greek, codes included
