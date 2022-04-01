@@ -5,7 +5,7 @@ This repository includes all Projects assigned to us during the Operational Syst
 
 Contributors: 
 ---
-Angelis Giorgos  
-Pigadas Nicolas  
+[Angelis Giorgos](https://github.com/ag-george)  
+[Pigadas Nicolas](https://github.com/NIcolasp14) 
 
 
